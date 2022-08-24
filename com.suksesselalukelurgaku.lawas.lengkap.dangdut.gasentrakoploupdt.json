@@ -1,0 +1,262 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GASENTRA 1",
+      "image": "file:///android_asset/image/GASA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "GASENTRA 2",
+      "image": "file:///android_asset/image/GASB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GASENTRA 1",
+      "title": "DASI DAN GINCU",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/9GDDSIDANGNCUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "GASENTRA 1",
+      "title": "KEHILANGAN",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/8GDKHILANGANTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 3,
+      "name_category": "GASENTRA 1",
+      "title": "SEBUJUR BANGKAI",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/7GDSBUNJURBNGKAITU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 4,
+      "name_category": "GASENTRA 1",
+      "title": "TABIR KEPALSUAN",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/6GDTBIRKPLSUANTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 5,
+      "name_category": "GASENTRA 1",
+      "title": "GALA GALA",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/5GDGLAGLATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 6,
+      "name_category": "GASENTRA 1",
+      "title": "KERANDA CINTA",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/4GDKRANDACNTATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 7,
+      "name_category": "GASENTRA 1",
+      "title": "PERTEMUAN",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/3GDPRTMUANTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 8,
+      "name_category": "GASENTRA 1",
+      "title": "KERAMAT",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/2GDKRAMATTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 9,
+      "name_category": "GASENTRA 1",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/1GDPCAHSRIBUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 10,
+      "name_category": "GASENTRA 1",
+      "title": "MENUNGGU",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/10GDMNUNGGUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 11,
+      "name_category": "GASENTRA 1",
+      "title": "MASIH ADAKAH CINTA",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/11GDMSIHADAKAHCNTATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "GASENTRA 1",
+      "title": "SETETES AIR HINA",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/12GDSTTESAIRHNATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 13,
+      "name_category": "GASENTRA 1",
+      "title": "BUTA TULI",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/13GDBUTTULITU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 14,
+      "name_category": "GASENTRA 1",
+      "title": "HARUSKAH BERAKHIR",
+      "image": "file:///android_asset/image/GASA.jpg",
+      "link_mp3": "mp3/14GDHRUSKAHBRAKHIRTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 15,
+      "name_category": "GASENTRA 2",
+      "title": "ANAK YANG MALANG",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDANKYNGMLANGTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 16,
+      "name_category": "GASENTRA 2",
+      "title": "BADAI BIRU",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDBDAIBIRUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 17,
+      "name_category": "GASENTRA 2",
+      "title": "BAGAI TANTING YANG KEING",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDBGAIRNTINGYGKRINGTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 18,
+      "name_category": "GASENTRA 2",
+      "title": "CITRA CINTA",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDCTRACINTATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 19,
+      "name_category": "GASENTRA 2",
+      "title": "FATAMORGANA",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDFTAMORGANATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 20,
+      "name_category": "GASENTRA 2",
+      "title": "GHIBAH",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDGHIBAHTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 21,
+      "name_category": "GASENTRA 2",
+      "title": "KURANG APA",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDKRANGAPATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "GASENTRA 2",
+      "title": "LUKAKU",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDLUKAKUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 23,
+      "name_category": "GASENTRA 2",
+      "title": "PAYUNG HITAM",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDPYUNHHTAMTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 24,
+      "name_category": "GASENTRA 2",
+      "title": "SEJENGKALH TANAH",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDSJNGKALHTNAHTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 25,
+      "name_category": "GASENTRA 2",
+      "title": "SAKIT HATI",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDSKITHATITU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 26,
+      "name_category": "GASENTRA 2",
+      "title": "SENYUM DAN HATIMU",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDSNYUMDANHTIMUTU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 27,
+      "name_category": "GASENTRA 2",
+      "title": "TAJAMNYA CINTA",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDTJAMNYACNTATU.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 28,
+      "name_category": "GASENTRA 2",
+      "title": "TAK BUTUH CINTA",
+      "image": "file:///android_asset/image/GASB.jpg",
+      "link_mp3": "mp3/GDTKBTUHCINTATU.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
