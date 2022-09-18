@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
@@ -45,7 +45,7 @@
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "vfgvf",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "208799688",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : true,
 
